@@ -1,0 +1,8 @@
+{
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Abyss",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "composer.executablePath": "/usr/local/bin/composer",
+    "composer.workingPath": "/Applications/XAMPP/xamppfiles/htdocs/Julian's Lab"
+}
