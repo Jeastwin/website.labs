@@ -1,0 +1,10 @@
+{
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Abyss",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "php.validate.executablePath": "XAMPP/xamppfiles/htdocs/Dorise Website ",
+    "php.executablePath": "XAMPP/xamppfiles/htdocs/Dorise Website"
+    "composer.executablePath": "/Applications/XAMPP/xamppfiles/htdocs/Dorise Website",
+    "composer.workingPath": "/Applications/XAMPP/xamppfiles/htdocs/Dorise Website"
+}
